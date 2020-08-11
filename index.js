@@ -203,6 +203,27 @@
 // Hint - you may need to study tomorrow's traning kit on arrays 
 // try looking up the .includes() method
 
+// function vowelCounter(myString){
+//     const myStringLower = myString.toLowerCase()
+//     let count = 0;
+
+//     for (let i = 0; i < myStringLower.length; i++){
+//         if (myStringLower[i].includes('a')){
+//             count += 1;
+//         }else if (myStringLower[i].includes('e')){
+//             count += 1;
+//         }else if (myStringLower[i].includes('i')){
+//             count += 1;
+//         }else if (myStringLower[i].includes('o')){
+//             count += 1;
+//         }else if (myStringLower[i].includes('u')){
+//             count += 1;
+//         }
+//     }console.log(count);
+// }
+
+// vowelCounter("hello")
+
 
 
 
